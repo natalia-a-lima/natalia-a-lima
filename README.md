@@ -1,20 +1,14 @@
 ## Olá! Seja bem vindo(a) ✌️
 
-- Desenvolvedora Front-end
+- Desenvolvedora <strong>Front-end</strong>
 - Estudante de Análise e Desenvolvimento de Sistemas
 
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nataliaalexandre)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nat%C3%A1lia-lima-136078266/)
-
-<div>
-<a href="https://github.com/natalia-a-lima">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=natalia-a-lima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-a-lima&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=natalia-a-lima&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=natalia-a-lima&theme=github-dark&hide_border=true&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Tecnologias:
 
